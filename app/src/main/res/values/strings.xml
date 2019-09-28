@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Seventeen Member</string>
+    <string name="members_name">Nama Member</string>
+    <string name="detail">Detail</string>
+    <string name="action_list">List</string>
+    <string name="action_grid">Grid</string>
+    <string name="with_cardview">with CardView</string>
+    <string name="favorite">Favorite</string>
+    <string name="share">Share</string>
+    <string name="nama">Dita Adetia Nadila</string>
+    <string name="email">ditadetian@gmail.com</string>
+    <string name="nama_asli">Nama Asli</string>
+    <string name="ttl">Tempat, Tanggal Lahir</string>
+    <string name="posisi">Posisi</string>
+    <string name="tinggi_badan">Tinggi Badan</string>
+    <string name="weight">Weight</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="karir">Karir</string>
+</resources>
